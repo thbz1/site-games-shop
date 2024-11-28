@@ -1,2 +1,2 @@
 ## Site Games Shop
-Landing Page criada com HTML e CSS junto a professores do curso Full Stack Python da EBAC
+Landing page de uma loja de jogos fictícia criada seguindo as orientações fornecidas pelos professores do curso da EBAC. O objetivo deste projeto foi aplicar e aprofundar nos conceitos de HTML e CSS.
